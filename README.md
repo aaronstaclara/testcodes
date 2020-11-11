@@ -1,2 +1,2 @@
 # testcodes
-Repository of test codes I made while exploring things.
+Repository of test codes I made. Codes were made in Python and MATLAB.
